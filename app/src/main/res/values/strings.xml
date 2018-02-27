@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Attendance Monitor</string>
+    <string name="title_home">Attendance Maintainance</string>
+    <string name="title_dashboard">Bunk Calculation</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_credit_hrs">CreditHrsActivity</string>
+    <string name="instructions_main">Enter the target attendance percentage you want to have, the number of classes attended and the total number of classes planned for the semester.</string>
+</resources>
